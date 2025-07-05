@@ -95,6 +95,7 @@ Created using **Bravo BI**:
   *(Use Git LFS if uploading to GitHub due to file size >25MB)*
 
 ---
+![image](https://github.com/user-attachments/assets/f3e8c8b3-329d-4c77-9425-a34cd859ff84)
 
 ## 📩 Contact
 
