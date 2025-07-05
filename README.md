@@ -89,12 +89,7 @@ Created using **Bravo BI**:
 
 ---
 
-## 📁 File Information
 
-- `Loan-Default-Analysis.pbix`: Power BI report file  
-  *(Use Git LFS if uploading to GitHub due to file size >25MB)*
-
----
 
 ## 📩 Contact
 
