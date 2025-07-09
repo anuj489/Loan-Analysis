@@ -94,7 +94,13 @@ Created using **Bravo BI**:
 ## 📩 Contact
 
 **Anuj Agarwal**  
-Data Analyst | BI Developer  
+Data Analyst | BI Developer 
+![image](https://github.com/user-attachments/assets/24126299-07dd-4f86-b5fe-3bab1ec78074)
+![image](https://github.com/user-attachments/assets/36899598-3af5-47aa-83cd-15d62014908e)
+![image](https://github.com/user-attachments/assets/caec5568-7050-451a-9936-3c58f6194f0c)
+
+
+
 
 
 ---
